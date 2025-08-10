@@ -1,4 +1,4 @@
-# Product Filter
+# Product Filter ⌚
 
 A dynamic product filtering interface built with HTML, CSS, and JavaScript.
 
